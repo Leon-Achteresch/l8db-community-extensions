@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "extensions": [
+    {
+      "id": "leon-achteresch.table-json-viewer",
+      "name": "TableJSONViewer",
+      "description": "Setzt gefilterte Tabellenzeilen über Ebene, Position, Name und Inhalt zu JSON zusammen und öffnet den l8db-JSON-Viewer.",
+      "version": "0.1.0",
+      "publisher": "leon-achteresch",
+      "package": "packages/leon-achteresch.table-json-viewer-0.1.0.l8db-extension",
+      "sha256": "70534d711ed140341eb85f5a9e61e12d5ddd9aeda81f891329e37feb95a6a01c"
+    }
+  ]
+}
